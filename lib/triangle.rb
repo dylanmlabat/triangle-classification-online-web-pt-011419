@@ -7,6 +7,10 @@ class Triangle
     @side3 = side3
   end
   
+  def kind
+  
+  end
+  
   class TriangleError < StandardError
   end
 end
